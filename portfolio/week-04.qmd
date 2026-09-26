@@ -1,25 +1,49 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
 ---
 
-## Kompetensi target
-
-Mengadaptasi repertoire dan language tanpa mengubah core meaning.
-
-## Evidence wajib
-
-- Lima versi untuk friend, technical peer, manager, customer, dan public.
-- Alasan perubahan language dan repertoire.
-- Feedback understanding dari sedikitnya satu target.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-note title="Status Dokumen"}
+Dokumen ini disusun sebagai portofolio pengerjaan tugas Minggu 4.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Core meaning
+
+**Fakta yang tidak boleh berubah:** Edunex mengalami *overload/down* saat UTS berlangsung sehingga mahasiswa mengalami kendala akses/unggah. Pengguna harus melapor ke pengawas ujian, yang kemudian meneruskan masalah ini ke tim pengelola/admin Edunex. Waktu pengerjaan tidak ditambah, namun tenggat pengiriman/submit diperpanjang.
+
+| Target/character | Versi language | Alasan adaptasi |
+|---|---|---|
+| Friend | “Edunex lagi down nih gara-gara overload UTS. Langsung kabarin pengawas ujianmu aja biar dilaporin ke admin Edunex. Tenang, waktu pengerjaan emang ga nambah tapi waktu submit-nya diperpanjang kok!” | Ringkas, santai, menenangkan, dan memberikan langkah praktis langsung. |
+| Technical peer | “High-traffic spike saat UTS menyebabkan server Edunex overload/unresponsive. User diminta escalate ticket/laporan via pengawas untuk dilanjutkan ke sysadmin Edunex. Submission deadline diperpanjang tanpa mengubah durasi pengerjaan.” | Menggunakan terminologi teknis (*traffic spike*, *sysadmin*, *submission deadline*) untuk menjelaskan akar masalah dan mitigasi. |
+| Manager | “Overload server Edunex saat UTS berdampak pada kelancaran pengumpulan jawaban mahasiswa. Prosedur mitigasi: pengawas merekap laporan kendala ke tim IT/admin Edunex dan memperpanjang batas waktu submit mahasiswa.” | Berfokus pada dampak operasional, mekanisme penanganan berjenjang, dan solusi manajemen risiko. |
+| Customer/student user | “Jika Anda mengalami kendala akses Edunex akibat server overload saat UTS, harap segera laporkan ke pengawas ujian Anda. Pengawas akan meneruskan laporan ke admin Edunex. Waktu pengerjaan tidak bertambah, namun tenggat submit diperpanjang.” | Jelas, berfokus pada aksi yang harus dilakukan mahasiswa tanpa beban istilah teknis internal. |
+| Public | “Layanan portal Edunex sempat mengalami kendala akses akibat peningkatan trafik saat periode UTS. Penanganan dilakukan bersama pengawas dan tim pengelola Edunex dengan perpanjangan batas pengumpulan jawaban.” | Bersifat informatif umum, menjaga reputasi, dan mengarahkan pada solusi tanpa membagikan log internal. |
+
+## Evidence understanding
+
+Uji coba dilakukan terhadap versi *Customer/student user* kepada salah satu mahasiswa yang sedang mengikuti UTS. Target memahami bahwa ia harus melapor ke pengawas jika Edunex bermasalah. Namun, target bertanya: *“Apakah durasi jam pengerjaan soal saya bertambah jika Edunex down?”*
+
+Diberikan penjelasan tambahan: *“Waktu pengerjaan soal tidak ditambah, namun waktu/tenggat submit diperpanjang.”* Adaptasi ini memperjelas kondisi dan batasan tanpa mengubah core meaning awal.
+
+## Analisis dan batas
+
+Variasi bahasa (*repertoire*) disesuaikan berdasarkan audiens: mulai dari pesan kasual antarteman, penjelasan teknis antar-peer, penyampaian bernuansa manajemen, panduan operasional mahasiswa, hingga pengumuman publik. 
+
+AI digunakan untuk memeriksa apakah kelima versi tetap mempertahankan fakta kunci (Edunex down akibat overload, situasi UTS, alur laporan via pengawas ke admin, serta ketegasan perpanjangan waktu submit bukan durasi pengerjaan). Usulan AI yang sempat menyarankan klausa *"seluruh ujian diulang"* ditolak karena tidak sesuai dengan fakta dan kebijakan instansi.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Lima target audiens dibedakan dengan gaya bahasa dan kebutuhan informasi yang relevan |
+| Objective & State | 3 | Core facts dan aksi yang perlu diambil konsisten di seluruh versi |
+| Repertoire, Language & AI | 4 | Menggunakan lima register bahasa berbeda, disertai rasional dan filter AI |
+| Response & Adaptation | 3 | Feedback mahasiswa direspons dengan klarifikasi pemisahan waktu pengerjaan vs waktu submit |
+| Agreement, Action & Relationship | 3 | Instruksi pelaporan ke pengawas dan perpanjangan batas submit disampaikan eksplisit |
+
+**Total: 16/20 — Kompeten.**

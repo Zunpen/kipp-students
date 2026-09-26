@@ -1,25 +1,65 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "15/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
 
-## Kompetensi target
+## Episode
 
-Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+**Event:** Menjalankan dua proyek secara bersamaan di mana proyek pribadi/santai berfokus pada eksplorasi ide, sedangkan proyek UKM/lomba berfokus pada *feasibility* dan *timekeeping*.
 
-## Evidence wajib
+| Lapisan | Catatan |
+|---|---|
+| **Fact** | Menjalankan 2 proyek bersamaan; proyek pribadi berdiskusi soal ide dan penambahan fitur, proyek UKM/lomba membatasi diskusi pada *feasibility* dan *timekeeping*. |
+| **Initial story** | "Saya lebih *passionate* pada pekerjaan/proyek santai, sedangkan proyek lomba terasa seperti beban/pekerjaan daripada *passion project*." |
+| **Emotion/body signal** | Proyek pribadi: Santai 8/10, Senang 10/10. Proyek lomba: Bingung 6/10, Agak malas 3/10. |
+| **Reactive character** | **The Idealist Explorer / The Resister** yang enggan terikat aturan *timeline* dan merasa jenuh dengan batasan profesional. |
+| **Desired character** | **The Adaptive Strategist** yang mampu memisahkan ruang bermain dan ruang performa serta tetap kreatif di dalam batasan. |
 
-- Satu episode komunikasi dengan diri sendiri.
-- Initial story dan sedikitnya dua alternative narratives.
-- Internal agreement dan bukti tindakan berikutnya.
+*Initial story* melampaui fakta: tuntutan *feasibility* pada proyek lomba bukanlah tanda bahwa proyek tersebut tidak menarik, melainkan bentuk penyesuaian terhadap tujuan dan skala kompetisi yang berbeda dari proyek pribadi.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Alternative narratives
 
-{{< include ../includes/evidence-template.md >}}
+1. **Pemisahan Peran:** Wajar jika proyek pribadi terasa lebih menyenangkan dibanding proyek lomba karena tujuannya memang berbeda; proyek pribadi adalah ruang eksplorasi bebas, sedangkan proyek lomba adalah ruang performa profesional.
+2. **Constraint-based Creativity:** Proyek lomba adalah kesempatan untuk belajar bagaimana tetap kreatif meskipun ada batasan waktu, aturan, dan target yang harus dicapai bersama tim.
+
+Narasi kedua paling berguna karena mengubah sudut pandang terhadap batasan (*constraint*) dari yang semula dianggap mematikan ide menjadi tantangan untuk melatih fleksibilitas strategi.
+
+## Internal conversation dan agreement
+
+> **The Idealist / Resister:** “Kenapa rapatnya terasa seperti kerjaan terus? Saya lebih suka mengerjakan proyek pribadi karena lebih bebas dan bisa mengeksplorasi ide.”  
+> **The Adaptive Strategist:** “Memang proyek ini berbeda. Tujuannya bukan untuk menjadi proyek santai seperti proyek pribadi, tetapi untuk mencapai target bersama tim. Saya tetap bisa menggunakan kreativitas saya, hanya saja perlu menyesuaikannya dengan waktu, aturan, dan kondisi yang ada.”  
+> **The Idealist / Resister:** “Kalau terlalu banyak batasan, jadi kurang seru.”  
+> **The Adaptive Strategist:** “Justru batasan ini bisa menjadi latihan. Saya bisa mencoba mencari solusi kreatif yang tetap realistis dan membantu tim menyelesaikan proyek.”
+
+**Internal agreement:** Saya sepakat untuk tidak membandingkan proyek lomba dengan proyek pribadi secara langsung. Proyek pribadi tetap menjadi wadah eksplorasi bebas, sedangkan proyek lomba menjadi tempat melatih kedisiplinan dan adaptasi ide. Saat rapat lomba, saya berfokus pada kontribusi aktif sesuai kebutuhan tim.
+
+## Evidence tindakan
+
+- Memisahkan kerangka berpikir (*mindset*) dan ekspektasi saat menghadiri rapat proyek lomba dibanding saat mengerjakan proyek pribadi.
+- Menahan diri dari memaksakan ide eksploratif yang berada di luar cakupan alokasi waktu (*timekeeping*) tim lomba.
+- Mengidentifikasi dan mengeksekusi satu komponen tugas kecil yang konkret pada proyek lomba tanpa menunda-nunda.
+
+ Evidence ini memperbarui *story* saya: proyek profesional tidak mematikan kreativitas, melainkan membentuk disiplin eksekusi yang nyata.
+
+## Feedback, AI, dan refleksi
+
+Penggunaan AI tidak dilakukan pada episode ini. Pemisahan *fact* dan *story* dilakukan secara mandiri melalui pemetaan peran dan tujuan dari masing-masing proyek.
+
+**Next practice:** Ketika mulai merasa malas atau tertekan dalam proyek profesional, saya akan berhenti sejenak untuk menentukan satu hal kecil yang bisa saya kontribusikan saat itu. Saya tidak akan menunggu sampai merasa benar-benar termotivasi, tetapi mencoba mulai dari tugas atau ide yang paling jelas dan bisa saya kerjakan.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Karakter reaktif (*Idealist/Resister*) dan harapan (*Adaptive Strategist*) teridentifikasi jelas. |
+| Objective & State | 3 | Emosi dan tingkat resistensi terukur pada kedua situasi proyek. |
+| Repertoire, Language & AI | 3 | Berhasil menyusun *internal conversation* dan dua narasi alternatif yang relevan. |
+| Response & Adaptation | 3 | Mengubah cara pandang terhadap batasan proyek dari beban menjadi tantangan adaptif. |
+| Agreement, Action & Relationship | 3 | Komitmen untuk memisahkan ekspektasi peran proyek pribadi dan proyek profesional. |
+
+**Total: 15/20 — Kompeten.**
