@@ -1,25 +1,50 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "16/20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
 ---
 
-## Kompetensi target
+## Konteks dan relationship state
 
-Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+"Aku" dan "R" adalah teman satu fakultas dan tinggal di kosan yang sama. Kami berencana untuk berangkat bersama ke acara kegiatan ospek jurusan (osjur). Namun, terdapat perbedaan prioritas jam berangkat: aku ingin berangkat lebih awal agar memiliki waktu untuk mengecek dan melengkapi spesifikasi (spek) osjur di lokasi, sedangkan R kesulitan untuk bangun terlalu pagi.
 
-## Evidence wajib
+**State sebelum percakapan:** Ketegangan berada pada skala **6/10** karena kekhawatiran terlambat versus rasa enggan berangkat terlalu pagi. Objective utama percakapan ini adalah mencari **titik tengah (kompromi)** tanpa menimbulkan perselisihan.
 
-- Transcript atau catatan percakapan.
-- Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
+## Potongan transcript
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+> **Aku:** “Aku ingin membicarakan jam berangkat ospek jurusan besok. Aku khawatir kita terburu-buru dan tidak sempat mengecek kelengkapan spek osjur di lokasi.”  
+> **R:** “Aku susah kalau harus bangun terlalu pagi. Kalau berangkat sepagi yang kamu mau, aku bakal lemas dan tidak fokus seharian.”  
+> **Aku:** “Jadi kamu butuh waktu istirahat yang cukup agar siap menjalani ospek, tapi kamu paham kan kalau kita juga intuition butuh waktu mengecek spek?”  
+> **R:** “Iya, paham kok. Aku cuma butuh kompromi jamnya saja.”  
+> **Aku:** “Bagaimana kalau kita sepakat berangkat 45 menit sebelum acara dimulai? Kamu punya waktu tambahan untuk siap-siap, dan kita masih punya waktu melengkapi spek di lokasi.”  
+> **R:** “Oke, sepakat. 45 menit sebelum acara mulai aku sudah siap di depan kosan.”
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis listening, boundary, dan repair
+
+Percakapan diawali dengan penyampaian kekhawatiran secara obyektif tanpa menyalahkan R. Melalui proses *paraphrase*, aku mengonfirmasi kebutuhan R yang membutuhkan waktu istirahat agar tetap fokus selama ospek. 
+
+**Boundary & Request:** Kebutuhan bersama untuk tiba lebih awal demi melengkapi spek diselaraskan dengan batas toleransi waktu bangun R. Pengajuan solusi berangkat **45 menit sebelum acara** menjadi titik tengah kompromi yang mengakomodasi kebutuhan kedua belah pihak.
+
+## Relationship outcome dan evidence
+
+- **Evidence:** Kesepakatan verbal secara langsung (*face-to-face*) di kosan.
+- **Hasil Tindakan:** Berhasil berangkat sesuai kesepakatan sehingga kelengkapan spek osjur dapat disiapkan di lokasi tanpa rasa terburu-buru.
+- **Skor Ketegangan:** Berhasil turun secara signifikan dari **6/10 menjadi 1/10**.
+
+Percakapan dilakukan secara langsung tanpa bantuan AI. Refleksi ini ditulis secara mandiri setelah interaksi selesai.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Mengakui kebutuhan istirahat R dan kebutuhan persiapan pribadi |
+| Objective & State | 3 | Fokus mencari titik tengah dari ketegangan awal 6/10 |
+| Repertoire, Language & AI | 3 | Menggunakan klarifikasi, paraphrase, request kompromi, dan refleksi mandiri |
+| Response & Adaptation | 3 | Menyesuaikan waktu berangkat dari "sangat pagi" menjadi "45 menit sebelum acara" |
+| Agreement, Action & Relationship | 4 | Kesepakatan verbal jelas, terlaksana di hari-H, dan ketegangan turun ke 1/10 |
+
+**Total: 16/20 — Kompeten.**
