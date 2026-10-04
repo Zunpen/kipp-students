@@ -24,16 +24,23 @@ Pertanyaan utama:
 4. Sejauh ini, bagaimana caramu mengatasi atau menyiasati tugas-tugas menggambar tersebut?
 5. Hal apa yang paling penting untuk tetap kamu pertahankan dalam menyikapi perkuliahanmu sekarang?
 
-## Potongan transcript
+## Potongan transcript & tagging verifikasi
 
 > **Interviewer:** “Bisa ceritakan bagaimana prosesmu dulu saat akhirnya memutuskan memilih jurusan Teknik Sipil?”  
 > **Fahmi:** “Jujur awalnya saya ragu karena dari dulu tidak suka menggambar. Tapi setiap melihat bangunan tinggi, saya selalu penasaran dengan sistem di baliknya—kenapa bisa berdiri kokoh—bukan sekadar tampilan estetikanya.”  
+> `[AI Tag: Fact] | [Human Review: Terkonfirmasi catatan obrolan mentah]`
+>
 > **Interviewer:** “Jadi fokus perhatianmu lebih ke struktur dan logika bangunan daripada arsitekturnya?”  
 > **Fahmi:** “Betul. Awalnya saya kira Teknik Sipil bakal banyak gambar bebas seperti arsitektur.”  
+> `[AI Tag: Interpretation] | [Human Review: Koreksi manual — AI sempat menganggap Fahmi membenci arsitektur, dipertajam manusia menjadi preferensi pada logika struktur]`
+>
 > **Interviewer:** “Lalu bagaimana pandanganmu berubah setelah mulai kuliah?”  
 > **Fahmi:** “Pas ketemu mata kuliah Gambar Teknik, persepsi saya berubah total. Di situ kita tidak sekadar menggambar indah, tapi diajak mengenal dan membedah luar-dalam bangunan tersebut. Menggambar ternyata cuma media untuk memahami sistemnya.”  
+> `[AI Tag: Fact/Shift] | [Human Review: Key insight diidentifikasi dan diverifikasi secara manual]`
+>
 > **Interviewer:** “Apa constraint yang penting buat kamu dalam belajar sekarang?”  
-> **Fahmi:** “Jangan sampai proses belajarnya cuma fokus pada estetika gambar, tapi harus tetap mengutamakan pemahaman logika strukturnya.”
+> **Fahmi:** “Jangan sampai proses belajarnya cuma fokus pada estetika gambar, tapi harus tetap mengutamakan pemahaman logika strukturnya.”  
+> `[AI Tag: Constraint] | [Human Review: Terkonfirmasi langsung oleh Fahmi via chat]`
 
 ## Pembaruan pembacaan
 
@@ -47,10 +54,19 @@ Setelah menjalani mata kuliah Gambar Teknik, ia menyadari bahwa menggambar adala
 
 ## Evidence, feedback, dan next step
 
-- Wawancara berlangsung selama 15 menit melalui obrolan suara di Discord (tanpa rekaman audio sesuai kesepakatan mengobrol santai; catatan transkrip dibuat secara langsung).
-- Transkrip dirangkum dan dikategorikan menggunakan AI untuk memisahkan *fact*, *interpretation*, dan *underlying motivation*.
+### Artefak Wawancara
+- Wawancara berlangsung selama 15 menit melalui obrolan suara di Discord (tanpa rekaman audio sesuai kesepakatan obrolan santai; catatan transkrip mentah dibuat secara manual saat berlangsung).
 - Pernyataan *shared problem statement* telah dikirimkan dan dikonfirmasi ulang oleh Fahmi via pesan singkat.
-- **Next step:** Menerapkan pendekatan mendalam untuk memahami *why* di balik tindakan/pilihan seseorang pada wawancara berikutnya dan menghindari *hasty generalization* atau penarikan kesimpulan secara terburu-buru.
+
+### Penggunaan AI & Human Review Log
+- **Peran AI:** Digunakan sebatas untuk menstrukturkan draf transkrip mentah, mengelompokkan tata bahasa, dan memberikan label awal (`fact`, `interpretation`, `constraint`).
+- **Rationale & Batasan AI:** AI tidak digunakan untuk mengambil kesimpulan motivasi utama narasumber karena AI cenderung melakukan *oversimplification*. Penarikan makna mendalam (*why*) dilakukan penuh secara manual oleh pewawancara.
+- **Log Verifikasi Manusia (Human Review Log):**
+  1. *Pemeriksaan Label:* AI sempat menyimpulkan bahwa Fahmi "membenci seni/arsitektur". Pewawancara memverifikasi dan mengoreksi bahwa Fahmi hanya lebih menyukai *sistem di balik struktur* daripada aspek estetik semata.
+  2. *Validasi Fakta:* Setiap poin transkrip hasil olahan AI dicocokkan kembali dengan catatan poin mentah obrolan Discord sebelum dikonfirmasi ke Fahmi.
+
+### Next Step
+Menerapkan pemahaman *why* di balik tindakan/pilihan seseorang pada wawancara berikutnya, menghindari *hasty generalization*, serta mempertahankan kontrol manual ketat atas analisis kualitatif yang dihasilkan oleh AI.
 
 ## Self-assessment
 
@@ -58,8 +74,8 @@ Setelah menjalani mata kuliah Gambar Teknik, ia menyadari bahwa menggambar adala
 |---|---:|---|
 | Person & Character | 4 | Berhasil menggali minat mendalam (*system over aesthetics*) dan *constraint* narasumber secara presisi |
 | Objective & State | 4 | Mengubah total asumsi awal yang keliru menjadi *shared problem statement* yang disetujui |
-| Repertoire, Language & AI | 3 | Menggunakan pertanyaan *open-ended*, konfirmasi ulang, dan pemanfaatan AI untuk struktur transkrip |
-| Response & Adaptation | 4 | Beradaptasi penuh saat mengetahui alasan sebenarnya tanpa memaksakan persepsi awal |
+| Repertoire, Language & AI | 4 | Menggunakan *open questions*, verifikasi langsung, serta menyertakan **Human Review Log** eksplisit untuk mengontrol batasan AI |
+| Response & Adaptation | 3 | Beradaptasi penuh saat mengetahui alasan sebenarnya tanpa memaksakan persepsi awal |
 | Agreement, Action & Relationship | 3 | *Problem statement* disepakati narasumber dan *next step* reflektif teridentifikasi |
 
 **Total: 18/20 — Mahir.**
