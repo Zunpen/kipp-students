@@ -271,9 +271,14 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#initial-assumption-dan-rencana-discovery" id="toc-initial-assumption-dan-rencana-discovery" class="nav-link active" data-scroll-target="#initial-assumption-dan-rencana-discovery">Initial assumption dan rencana discovery</a></li>
-  <li><a href="#potongan-transcript" id="toc-potongan-transcript" class="nav-link" data-scroll-target="#potongan-transcript">Potongan transcript</a></li>
+  <li><a href="#potongan-transcript-tagging-verifikasi" id="toc-potongan-transcript-tagging-verifikasi" class="nav-link" data-scroll-target="#potongan-transcript-tagging-verifikasi">Potongan transcript &amp; tagging verifikasi</a></li>
   <li><a href="#pembaruan-pembacaan" id="toc-pembaruan-pembacaan" class="nav-link" data-scroll-target="#pembaruan-pembacaan">Pembaruan pembacaan</a></li>
-  <li><a href="#evidence-feedback-dan-next-step" id="toc-evidence-feedback-dan-next-step" class="nav-link" data-scroll-target="#evidence-feedback-dan-next-step">Evidence, feedback, dan next step</a></li>
+  <li><a href="#evidence-feedback-dan-next-step" id="toc-evidence-feedback-dan-next-step" class="nav-link" data-scroll-target="#evidence-feedback-dan-next-step">Evidence, feedback, dan next step</a>
+  <ul class="collapse">
+  <li><a href="#artefak-wawancara" id="toc-artefak-wawancara" class="nav-link" data-scroll-target="#artefak-wawancara">Artefak Wawancara</a></li>
+  <li><a href="#penggunaan-ai-human-review-log" id="toc-penggunaan-ai-human-review-log" class="nav-link" data-scroll-target="#penggunaan-ai-human-review-log">Penggunaan AI &amp; Human Review Log</a></li>
+  <li><a href="#next-step" id="toc-next-step" class="nav-link" data-scroll-target="#next-step">Next Step</a></li>
+  </ul></li>
   <li><a href="#self-assessment" id="toc-self-assessment" class="nav-link" data-scroll-target="#self-assessment">Self-assessment</a></li>
   </ul>
 </nav>
@@ -334,17 +339,21 @@ ul.task-list li input[type="checkbox"] {
 <li>Hal apa yang paling penting untuk tetap kamu pertahankan dalam menyikapi perkuliahanmu sekarang?</li>
 </ol>
 </section>
-<section id="potongan-transcript" class="level2">
-<h2 class="anchored" data-anchor-id="potongan-transcript">Potongan transcript</h2>
+<section id="potongan-transcript-tagging-verifikasi" class="level2">
+<h2 class="anchored" data-anchor-id="potongan-transcript-tagging-verifikasi">Potongan transcript &amp; tagging verifikasi</h2>
 <blockquote class="blockquote">
 <p><strong>Interviewer:</strong> “Bisa ceritakan bagaimana prosesmu dulu saat akhirnya memutuskan memilih jurusan Teknik Sipil?”<br>
 <strong>Fahmi:</strong> “Jujur awalnya saya ragu karena dari dulu tidak suka menggambar. Tapi setiap melihat bangunan tinggi, saya selalu penasaran dengan sistem di baliknya—kenapa bisa berdiri kokoh—bukan sekadar tampilan estetikanya.”<br>
-<strong>Interviewer:</strong> “Jadi fokus perhatianmu lebih ke struktur dan logika bangunan daripada arsitekturnya?”<br>
+<code>[AI Tag: Fact] | [Human Review: Terkonfirmasi catatan obrolan mentah]</code></p>
+<p><strong>Interviewer:</strong> “Jadi fokus perhatianmu lebih ke struktur dan logika bangunan daripada arsitekturnya?”<br>
 <strong>Fahmi:</strong> “Betul. Awalnya saya kira Teknik Sipil bakal banyak gambar bebas seperti arsitektur.”<br>
-<strong>Interviewer:</strong> “Lalu bagaimana pandanganmu berubah setelah mulai kuliah?”<br>
+<code>[AI Tag: Interpretation] | [Human Review: Koreksi manual — AI sempat menganggap Fahmi membenci arsitektur, dipertajam manusia menjadi preferensi pada logika struktur]</code></p>
+<p><strong>Interviewer:</strong> “Lalu bagaimana pandanganmu berubah setelah mulai kuliah?”<br>
 <strong>Fahmi:</strong> “Pas ketemu mata kuliah Gambar Teknik, persepsi saya berubah total. Di situ kita tidak sekadar menggambar indah, tapi diajak mengenal dan membedah luar-dalam bangunan tersebut. Menggambar ternyata cuma media untuk memahami sistemnya.”<br>
-<strong>Interviewer:</strong> “Apa constraint yang penting buat kamu dalam belajar sekarang?”<br>
-<strong>Fahmi:</strong> “Jangan sampai proses belajarnya cuma fokus pada estetika gambar, tapi harus tetap mengutamakan pemahaman logika strukturnya.”</p>
+<code>[AI Tag: Fact/Shift] | [Human Review: Key insight diidentifikasi dan diverifikasi secara manual]</code></p>
+<p><strong>Interviewer:</strong> “Apa constraint yang penting buat kamu dalam belajar sekarang?”<br>
+<strong>Fahmi:</strong> “Jangan sampai proses belajarnya cuma fokus pada estetika gambar, tapi harus tetap mengutamakan pemahaman logika strukturnya.”<br>
+<code>[AI Tag: Constraint] | [Human Review: Terkonfirmasi langsung oleh Fahmi via chat]</code></p>
 </blockquote>
 </section>
 <section id="pembaruan-pembacaan" class="level2">
@@ -358,12 +367,29 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="evidence-feedback-dan-next-step" class="level2">
 <h2 class="anchored" data-anchor-id="evidence-feedback-dan-next-step">Evidence, feedback, dan next step</h2>
+<section id="artefak-wawancara" class="level3">
+<h3 class="anchored" data-anchor-id="artefak-wawancara">Artefak Wawancara</h3>
 <ul>
-<li>Wawancara berlangsung selama 15 menit melalui obrolan suara di Discord (tanpa rekaman audio sesuai kesepakatan mengobrol santai; catatan transkrip dibuat secara langsung).</li>
-<li>Transkrip dirangkum dan dikategorikan menggunakan AI untuk memisahkan <em>fact</em>, <em>interpretation</em>, dan <em>underlying motivation</em>.</li>
+<li>Wawancara berlangsung selama 15 menit melalui obrolan suara di Discord (tanpa rekaman audio sesuai kesepakatan obrolan santai; catatan transkrip mentah dibuat secara manual saat berlangsung).</li>
 <li>Pernyataan <em>shared problem statement</em> telah dikirimkan dan dikonfirmasi ulang oleh Fahmi via pesan singkat.</li>
-<li><strong>Next step:</strong> Menerapkan pendekatan mendalam untuk memahami <em>why</em> di balik tindakan/pilihan seseorang pada wawancara berikutnya dan menghindari <em>hasty generalization</em> atau penarikan kesimpulan secara terburu-buru.</li>
 </ul>
+</section>
+<section id="penggunaan-ai-human-review-log" class="level3">
+<h3 class="anchored" data-anchor-id="penggunaan-ai-human-review-log">Penggunaan AI &amp; Human Review Log</h3>
+<ul>
+<li><strong>Peran AI:</strong> Digunakan sebatas untuk menstrukturkan draf transkrip mentah, mengelompokkan tata bahasa, dan memberikan label awal (<code>fact</code>, <code>interpretation</code>, <code>constraint</code>).</li>
+<li><strong>Rationale &amp; Batasan AI:</strong> AI tidak digunakan untuk mengambil kesimpulan motivasi utama narasumber karena AI cenderung melakukan <em>oversimplification</em>. Penarikan makna mendalam (<em>why</em>) dilakukan penuh secara manual oleh pewawancara.</li>
+<li><strong>Log Verifikasi Manusia (Human Review Log):</strong>
+<ol type="1">
+<li><em>Pemeriksaan Label:</em> AI sempat menyimpulkan bahwa Fahmi “membenci seni/arsitektur”. Pewawancara memverifikasi dan mengoreksi bahwa Fahmi hanya lebih menyukai <em>sistem di balik struktur</em> daripada aspek estetik semata.</li>
+<li><em>Validasi Fakta:</em> Setiap poin transkrip hasil olahan AI dicocokkan kembali dengan catatan poin mentah obrolan Discord sebelum dikonfirmasi ke Fahmi.</li>
+</ol></li>
+</ul>
+</section>
+<section id="next-step" class="level3">
+<h3 class="anchored" data-anchor-id="next-step">Next Step</h3>
+<p>Menerapkan pemahaman <em>why</em> di balik tindakan/pilihan seseorang pada wawancara berikutnya, menghindari <em>hasty generalization</em>, serta mempertahankan kontrol manual ketat atas analisis kualitatif yang dihasilkan oleh AI.</p>
+</section>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
@@ -393,12 +419,12 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">3</td>
-<td>Menggunakan pertanyaan <em>open-ended</em>, konfirmasi ulang, dan pemanfaatan AI untuk struktur transkrip</td>
+<td style="text-align: right;">4</td>
+<td>Menggunakan <em>open questions</em>, verifikasi langsung, serta menyertakan <strong>Human Review Log</strong> eksplisit untuk mengontrol batasan AI</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
-<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
 <td>Beradaptasi penuh saat mengetahui alasan sebenarnya tanpa memaksakan persepsi awal</td>
 </tr>
 <tr class="odd">
