@@ -41,11 +41,11 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
 |---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+| Makalah | 10% | 90 | — | — | Belum dinilai |
+| Sesi 1 | 18% | 90 | — | — | Belum dinilai |
+| Sesi 2a | 18% | 90 | — | — | Belum dinilai |
+| Sesi 2b | 18% | 90 | — | — | Belum dinilai |
+| Sesi 3a | 18% | 90 | — | — | Belum dinilai |
+| Sesi 3b | 18% | 90 | — | — | Belum dinilai |
 
 **Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
