@@ -34,3 +34,18 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 | 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Fajar (K2-06) | Selesai | Bukti: [hasil_2b.qmd](UTS/hasil_2b.qmd) |
 | 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Budi (K3-02) | Selesai | Bukti: [hasil_3a.qmd](UTS/hasil_3a.qmd) |
 | 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Fajar (K3-06) | Selesai | Bukti: [hasil_3b.qmd](UTS/hasil_3b.qmd) |
+
+{{< include "../includes/uts-penilaian.md" >}}
+
+## Rekap nilai komponen
+
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---|---|---|---|
+| Makalah | 10% | — | — | — | Belum dinilai |
+| Sesi 1 | 18% | — | — | — | Belum dinilai |
+| Sesi 2a | 18% | — | — | — | Belum dinilai |
+| Sesi 2b | 18% | — | — | — | Belum dinilai |
+| Sesi 3a | 18% | — | — | — | Belum dinilai |
+| Sesi 3b | 18% | — | — | — | Belum dinilai |
+
+**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.

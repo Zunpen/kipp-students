@@ -160,3 +160,5 @@ Gross, J. J. (1998). Antecedent- and response-focused emotion regulation: Diverg
 McCrae, R. R., & Costa, P. T., Jr. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. *Journal of Personality, 57*(1), 17–40. https://doi.org/10.1111/j.1467-6494.1989.tb00759.x
 
 The Myers & Briggs Foundation. (tanpa tahun). *Myers-Briggs overview*. https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/
+
+{{< include "../../includes/uts-penilaian.md" >}}

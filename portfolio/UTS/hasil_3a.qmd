@@ -166,3 +166,5 @@ Tujuan tindakan **tercapai penuh**. Budi menyepakati uji coba terbatas (*pilot p
 *Batas Bukti: Interaksi berbasis simulasi teks; efektivitas nyata bergantung pada eksekusi teknis dan kenyamanan Mbak Rina saat pengoperasian langsung di lapangan.*
 
 **Konfirmasi akhir:** Seluruh data identitas, tujuan, transkrip percakapan, uji ulang, dan evaluasi telah dikonfirmasi dan siap disimpan ke dalam berkas `hasil_3a_18225103.qmd`.
+
+{{< include "../../includes/uts-penilaian.md" >}}

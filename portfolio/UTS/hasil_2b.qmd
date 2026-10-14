@@ -139,3 +139,5 @@ Tujuan komunikasi tercapai sepenuhnya. Fajar berhasil membuka hambatan utamanya 
 | Final penggabungan tugas kelompok | Tim | Besok, 20:00 WIB | Template laporan kelompok | Seluruh bagian terintegrasi rapi | Terjadwal |
 
 *Batas Bukti:* Hasil simulasi berbasis teks ini mengukur komitmen verbal dan kesepakatan simulasi. Eksekusi riil tugas tergantung pada pelaksanaan jadwal di luar sesi.
+
+{{< include "../../includes/uts-penilaian.md" >}}

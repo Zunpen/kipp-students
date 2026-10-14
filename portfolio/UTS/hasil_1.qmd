@@ -200,3 +200,5 @@ Ya, saya mengonfirmasi bahwa seluruh data, transkrip, dan analisis dalam laporan
 
 ---
 *Laporan ini dikonfirmasi dan disusun oleh Muhammad Rizqi Azhar (18225103) untuk memenuhi Tugas UTS KIPP 2026 Minggu 08 (Sesi 1).*
+
+{{< include "../../includes/uts-penilaian.md" >}}

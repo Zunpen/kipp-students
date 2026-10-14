@@ -168,3 +168,5 @@ Deal! Malam ini jam 21.30 kita *call* singkat buat kunci kerangka ya. Makasih ba
 **Batas bukti:** Kelengkapan simulasi ini terbatas pada modalitas percakapan teks. Perilaku Cyntia merupakan respon simulasi *engine* berbasis profil. Pelaksanaan nyata di luar sesi merupakan komitmen tindakan yang harus dibuktikan saat penyerahan tugas kelompok riil.
 
 **Konfirmasi akhir:** Identitas (Muhammad Rizqi Azhar / 18225103), nomor kasus (Sesi 2a - Kasus 2), hasil evaluasi, dan refleksi telah dikonfirmasi serta diperiksa kesesuaiannya sebelum berkas ini disimpan.
+
+{{< include "../../includes/uts-penilaian.md" >}}
