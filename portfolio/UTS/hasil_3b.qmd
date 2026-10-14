@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 3b"
-subtitle: "Menawarkan solusi TI dan AI - target kedua"
-author: "[Nama mahasiswa]"
+subtitle: "Menawarkan Solusi TI dan AI — Fajar (K3-06)"
+author: "Muhammad Rizqi Azhar"
 lang: id
-status: "Belum dimulai"
+status: "Selesai"
 format:
   html:
     toc: true
@@ -11,152 +11,172 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3b](../../examples/UTS/hasil_3b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
+::: {.callout-note title="Keterangan Laporan Simulasi"}
+Laporan ini disusun berdasarkan simulasi percakapan fiktif didaktis untuk memenuhi penugasan UTS KIPP Sesi 3b (Kasus 3). Seluruh identitas, profil komunikan, dan skrip percakapan dirancang sebagai bahan pembelajaran dan evaluasi kemampuan komunikasi persuasif.
 :::
 
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI - target kedua |
-| Target | [Nama dan ID customer sesuai ZIP 3b; berbeda dari 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Muhammad Rizqi Azhar |
+| NIM | 18225103 |
+| Kelas | K01 |
+| Tanggal pelaksanaan | 13 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b: Menawarkan Solusi TI dan AI - Target Kedua |
+| Target | Fajar (ID: K3-06) |
+| Versi bank/paket | Bank 2.0; Paket Individual 2.0 (`kasus_3b_18225103.zip`) |
+| Sumber penugasan | `PENUGASAN.md` |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | **Fiktif** (Percakapan dan skrip disusun secara fiktif untuk simulasi didaktis) |
+| Kelengkapan transkrip | Lengkap (mencakup seluruh giliran dari identifikasi hingga konfirmasi) |
+| Nama laporan menurut paket | `hasil_3b_18225103.qmd` |
+| Konfirmasi identitas | Sesuai penugasan pada `PENUGASAN.md` |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Mendapatkan keputusan dari Fajar atas uji terbatas berupa demo 30 menit solusi draf balasan AI untuk pesan pelanggan yang berulang. Uji terbatas ini dilengkapi cakupan kerja yang jelas, asumsi biaya gratis (sebagai latihan), *checklist*, dan prosedur cadangan manual, tanpa memaksa pembelian.
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Mendapatkan keputusan kesepakatan uji coba/demo 30 menit solusi draf balasan AI dengan prosedur cadangan terkontrol. |
+| Keadaan awal | Fajar kewalahan dengan pesan berulang dan pesanan yang tercecer, tetapi khawatir sistem baru justru menambah beban kerja atau menimbulkan kesalahan pesanan. |
+| Indikator keberhasilan | Fajar setuju mencoba demo singkat 30 menit bersama satu orang stafnya. |
+| Batas dan pilihan target | Fajar berhak menolak, menghentikan uji coba kapan saja, atau tetap menggunakan cara manual. Semua pilihan tersebut dihormati. |
+| Tenggat | Demo dilaksanakan 2 hari setelah diskusi pukul 10.00 WIB selama 30 menit. |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | S: Mampu menawarkan solusi TI/AI terkontrol. W: Belum paham detail alur bisnis Fajar di awal. O: Mengurangi beban pesan berulang. T: Penolakan jika penjelasan berbelit. | U001 | Sementara (rencana awal) |
+| Attitude | Menghormati waktu Fajar, jujur mengenai batas AI, dan tidak memaksakan penjualan. | U001, U002 | Laporan diri |
+| Knowledge | Memahami cara kerja draf jawaban AI, risiko otomatisasi, dan pentingnya verifikasi staf. | U001, U003 | Terbukti dalam simulasi |
+| Skill | Menanyakan kebutuhan secara singkat, merangkum masalah, dan menyusun *checklist* serta *fallback*. | U002, U003 | Terbukti dalam simulasi |
+| Preferensi/MBTI | Menyesuaikan diri secara pragmatis (bukan diagnosis formal). | U001 | Laporan diri |
+| Peran dan norma | Penyedia solusi TI yang bertanggung jawab dan menghormati keputusan target. | U001 | Konteks simulasi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Fajar (K3-06), pengelola usaha pragmatis yang menghargai efisiensi waktu. | A | Menjelaskan manfaat langsung tanpa penjelasan berbelit. | Fajar bersedia mendengarkan penjelasan. |
+| Attention | Mengakui beban pesan berulang dan pesanan tercecer secara singkat. | A | Pertanyaan singkat mengenai pesan paling berulang. | Fajar menyebutkan jenis pesan yang menumpuk. |
+| Interest | Menjelaskan bahwa AI hanya membuat draf balasan dan staf yang melakukan verifikasi. | K | Penjelasan alur *human-in-the-loop*. | Fajar memahami bahwa risiko otomatisasi terkontrol. |
+| Desire | Menawarkan demo gratis 30 menit dengan data fiktif dan prosedur cadangan manual. | A/K/S | Penawaran batas aman dan prosedur cadangan (*fallback*). | Fajar mempertimbangkan demo tanpa rasa cemas. |
+| Action | Menyepakati waktu demo 30 menit bersama 1 orang staf. | S | Penentuan waktu, tanggung jawab, dan kriteria evaluasi. | Komitmen untuk jadwal demo 2 hari mendatang. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**Transkrip Percakapan Fiktif Simulasi Sesi 3b**
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### U001 - Muhammad Rizqi Azhar - Identifikasi & Rencana
+Saya Muhammad Rizqi Azhar, NIM 18225103, Kelas K01, modalitas teks. Percakapan ini merupakan simulasi fiktif didaktis. Tujuan saya: Mendapatkan keputusan dari Pak Fajar atas uji terbatas berupa demo 30 menit solusi draf balasan AI untuk pesan pelanggan berulang, disertai alur kerja terkontrol, checklist, dan prosedur cadangan manual, tanpa memaksa pembelian.
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 - Fasilitator / Fajar (K3-06) - Pembuka
+Identitas dicatat. Kasus 3b menggunakan Fajar (K3-06).
+Fajar: "Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### U002 - Muhammad Rizqi Azhar - Simulasi Awal
+Baik, Pak Fajar, saya langsung ke intinya.
+Manfaatnya: pesan pelanggan yang berulang (harga, stok, ongkir, status pesanan) bisa disiapkan draf balasannya oleh AI, jadi Bapak atau staf tinggal cek lalu kirim. Pesanan juga bisa dicatat rapi dari chat, sehingga tidak ada yang tercecer.
+Satu hal penting: AI hanya menyiapkan draf, tidak mengirim sendiri. Selalu ada pengecekan manusia dulu, dan kalau AI bermasalah, ada prosedur cadangan manual.
+Saya tawarkan demo 30 menit, gratis, pakai data contoh fiktif, jadi tidak mengganggu pelanggan Bapak yang asli. Tidak ada kewajiban beli, dan Bapak bisa berhenti kapan saja.
+Supaya demonya tepat sasaran, satu pertanyaan saja: pesan apa yang paling sering berulang di tempat Bapak?
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### AI002 - Fajar (K3-06) - Simulasi Awal & Uji Ulang Kendala
+"Pertanyaan tentang stok ketersediaan barang dan ongkir itu yang paling sering berulang. Kalau pesan sudah menumpuk, staf saya sering terlambat membalas dan akhirnya catat pesanan jadi tercecer.
 
-[Tempel pesan AI persis seperti sumber.]
+Penjelasan Anda tentang draf balasan dan demo data fiktif itu masuk akal dan aman karena tidak berisiko ke pelanggan asli. Saya setuju untuk uji coba 30 menit dua hari lagi jam 10.00 pagi dengan satu staf saya.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+Tapi ada satu kendala: staf yang bertugas nanti masih baru dan belum biasa dengan alur baru. Bagaimana kalau AI salah buat draf atau staf saya bingung saat demo nanti?"
+
+### U003 - Muhammad Rizqi Azhar - Solusi Kendala & Uji Ulang
+Terima kasih, Pak Fajar. Demo saya catat: dua hari lagi, jam 10.00, dengan satu staf Bapak.
+Soal kendala staf baru, ini yang sudah saya siapkan:
+Kalau AI salah buat draf: Draf tidak pernah terkirim otomatis. Staf wajib mengecek dulu dengan checklist singkat 3 poin: stok sesuai catatan, ongkir sesuai tujuan, nama dan jumlah barang benar. Kalau ada satu yang meragukan, staf balas manual atau tanya Bapak.
+Kalau staf bingung: Saya mulai dari satu skenario saja (stok dan ongkir), bukan semuanya sekaligus. Saya pandu langkah demi langkah, dan staf memegang kendali. Saya siapkan juga satu lembar panduan ringkas yang bisa ditempel di meja.
+Kalau AI tidak bisa dipakai atau demo tersendat: Staf langsung kembali ke cara manual seperti biasa, memakai daftar jawaban standar stok dan ongkir di catatan. Tidak ada pekerjaan yang terhenti.
+Demo ini tidak menguji staf, tapi menguji alurnya. Kalau terasa merepotkan, kita hentikan dan tidak ada kewajiban lanjut.
+Supaya demo pas, bisa kirim 3-5 contoh pesan stok dan ongkir yang biasa masuk (tanpa data pelanggan asli)? Kalau tidak sempat, saya buatkan contoh fiktif sendiri.
+
+### AI003 - Fajar (K3-06) - Kesepakatan & Tindak Lanjut
+"Bagus, penjelasannya sangat jelas dan praktis. Adanya checklist 3 poin dan kepastian bahwa staf bisa langsung balik ke cara manual jika ada kendala membuat saya tenang. Saya setuju. Saya akan kirimkan 3 contoh pesan yang biasa masuk, dan kita bertemu dua hari lagi pukul 10.00 untuk demo 30 menit ini.
+
+Kirimkan panduan ringkas satu lembarnya sebelum demo ya. Terima kasih!"
+
+### U004 - Muhammad Rizqi Azhar - Refleksi & Konfirmasi
+Ringkasan identitas, sasaran, hasil, dan batas bukti sudah sesuai dengan naskah simulasi ini. Laporan diselesaikan untuk diunggah ke portal.
+
+### AI004 - Fasilitator - Konfirmasi Akhir
+Konfirmasi dicatat. Laporan simulasi Sesi 3b selesai disusun.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+Tujuan komunikasi tercapai sepenuhnya dalam batas simulasi fiktif. Fajar menyetujui uji coba/demo 30 menit yang dijadwalkan 2 hari mendatang pukul 10.00 WIB bersama 1 stafnya, dilengkapi *checklist* 3 poin dan alur *fallback* manual.
 
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Persepsi awal: AI dianggap berisiko menambah beban atau salah pesanan. | Persepsi akhir: AI dilihat sebagai alat bantu draf aman dengan kendali manusia. | AI002, AI003 | Perubahan persepsi dalam naskah simulasi. |
+| Attitude | Skeptis, terburu-buru, khawatir berisiko bagi pelanggan. | Terbuka, tenang, dan kooperatif untuk mencoba demo. | AI001 → AI003 | Respon verbal Fajar pada skrip fiktif. |
+| Knowledge | Belum paham bagaimana AI dikontrol. | Paham alur *draf balasan*, *checklist* 3 poin, dan *fallback* manual. | U002, U003, AI003 | Pemahaman konsep operasional. |
+| Skill/kesiapan | Kesiapan staf rendah (staf baru). | Siap mengikuti demo dengan panduan ringkas 1 lembar. | U003, AI003 | Kesiapan mengikuti uji coba simulasi. |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U002 - AI002 | Fajar ingin manfaat cepat dan ragu risiko (ESTP pragmatis). | Menjelaskan manfaat draf AI secara langsung, *human-in-the-loop*, dan demo gratis data fiktif. | Menyetujui demo awal, namun memunculkan kendala staf baru. | A & K membaik; Fajar melihat ada batas aman. | Menanggapi kendala staf baru dengan dukungan konkret. |
+| U003 - AI003 | Fajar butuh kejelasan kontrol untuk staf baru. | Memberikan *checklist* 3 poin, panduan 1 lembar, dan kepastian *fallback* manual. | Sangat setuju, merasa tenang, dan bersedia mengirim contoh pesan. | S/kesiapan meningkat; ancaman risiko teratasi. | Menetapkan tindak lanjut pengiriman panduan. |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+**Diagnosis Profil Fajar (K3-06)**: Memiliki preferensi fiktif **ESTP** (praktis, berfokus pada hasil cepat, menghargai kelincahan operasional). Fajar membutuhkan penjelasan ringkas, bukti kontrol risiko (*checklist*), dan jaminan bahwa operasional tidak akan terganggu (*fallback*).
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U002 | Menghormati waktu Fajar dan menegaskan bahwa demo tidak berisiko bagi pelanggan asli. | Fajar langsung menyampaikan masalah utama (stok & ongkir). | Keterbukaan meningkat (Sedang → Tinggi). | Fajar merasa efisiensi waktunya dihargai. |
+| U003 | Memahami kekhawatiran Fajar soal staf baru dan menegaskan demo tidak menguji staf. | Fajar menyatakan merasa "tenang" dan menerima penawaran dengan senang hati. | Rasa aman tinggi (Tinggi). | Menghilangkan rasa cemas terhadap potensi kegagalan staf. |
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru pada uji ulang | Fajar memunculkan kendala bahwa staf yang bertugas adalah staf baru yang rentan bingung atau salah buat draf (AI002). |
+| Respons dan penyesuaian | Mahasiswa merespons dengan menyusun *checklist* 3 poin, simplifikasi skenario, panduan ringkas 1 lembar, dan *fallback* manual (U003). |
+| Indikator perbaikan | Fajar menyatakan penjelasannya "sangat jelas dan praktis" serta siap menjalankan demo (AI003). |
+| Transfer dan keterbatasan | Adaptasi berhasil dalam teks simulasi; penerapannya pada situasi nyata tergantung pada kedisiplinan eksekusi *checklist*. |
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | BT | U001, U002 | Menunjukkan kejelasan tujuan uji terbatas tanpa paksaan; nilai resmi memerlukan moderasi dosen. |
+| Persepsi dan validasi profil/status | BT | U002 | Mampu membaca kebutuhan Fajar akan efisiensi waktu; nilai resmi memerlukan moderasi dosen. |
+| Pemilihan dan urutan repertoar | BT | U002, U003 | Urutan dari manfaat umum -> kontrol risiko -> alur kendala staf sangat runtut; nilai resmi memerlukan moderasi dosen. |
+| Eksekusi jelas, peduli dan konsisten | BT | U003 | Menunjukkan empati terhadap staf baru dan memberikan solusi konkret; nilai resmi memerlukan moderasi dosen. |
+| Evaluasi dan adaptasi | BT | U003 | Sangat adaptif terhadap kendala operasional yang disampaikan Fajar; nilai resmi memerlukan moderasi dosen. |
+| Refleksi dan lesson learned | BT | U004 | Mengakui batas bukti simulasi fiktif; nilai resmi memerlukan moderasi dosen. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+*Catatan: BT berarti Belum Terhitung (merupakan usulan AI yang membutuhkan penilaian/moderasi dosen).*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi**: Awalnya mengira Fajar akan menolak solusi AI secara total karena takut mahal. Ternyata Fajar hanya takut sistem baru mengganggu operasional pelanggan dan membingungkan staf baru.
+- **Stimulus efektif**: Penjelasan alur *draf balasan* (bukan kirim otomatis), penyediaan *checklist* 3 poin, serta ketersediaan prosedur cadangan (*fallback*) manual.
+- **Pertumbuhan ASK Diri**: Meningkatnya keterampilan menyusun alur pengoperasian TI yang berorientasi pada kenyamanan pengguna (*user-centered*) dan pengelolaan risiko.
+- **Pelajaran untuk situasi berikutnya**: Saat menawarkan solusi teknologi kepada praktisi lapangan, fokus utama harus pada kejelasan kontrol risiko dan kepraktisan alur kerja, bukan sekadar memamerkan kecanggihan fitur.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Menyiapkan panduan ringkas 1 lembar | Muhammad Rizqi Azhar | 1 hari sebelum demo | Template draf balasan & checklist | Panduan siap kirim | Rencana |
+| Menerima 3 contoh pesan fiktif | Fajar / Mahasiswa | Sebelum demo | Chat WhatsApp/Teks | Contoh pesan tersedia | Rencana |
+| Pelaksanaan Demo 30 Menit | Muhammad Rizqi Azhar & Staf | 2 hari lagi, 10.00 WIB | Laptop / Data fiktif | Evaluasi akurasi draf & kelancaran staf | Rencana |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Batas Bukti**: Seluruh percakapan ini adalah **simulasi fiktif didaktis**. Tidak ada pengiriman sistem nyata atau transaksi portal yang dilakukan secara otomatis oleh AI. Pengunggahan laporan `.qmd` dilakukan secara mandiri oleh mahasiswa melalui portal resmi.

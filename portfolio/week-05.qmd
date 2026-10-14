@@ -48,15 +48,19 @@ Initial assumption bahwa Fahmi "tidak serius memilih jurusan" **terbukti keliru*
 
 Setelah menjalani mata kuliah Gambar Teknik, ia menyadari bahwa menggambar adalah alat analisis (*analytical tool*) untuk memahami sistem luar-dalam bangunan.
 
-**Shared problem statement yang dikonfirmasi Fahmi:**
+**Shared problem statement yang diajukan:**
 
 > “Mahasiswa Teknik Sipil yang menyukai logika struktur bangunan membutuhkan pemahaman mendalam tentang fungsi Gambar Teknik sebagai alat analisis sistem (bukan sekadar seni visual), agar ketakutan awal terhadap keterampilan menggambar tidak menghambat motivasi belajar mereka.”
 
+**Kutipan konfirmasi langsung dari Fahmi (via pesan Discord):**
+
+> **Fahmi menyetujui:** “Nah ini dapet banget sih poinnya. Pas awal kuliah emang sempet mikir salah jurusan gara-gara tidak suka gambar, tapi pas tau gambar teknik itu cara membedah logika bangunannya, malah jadi dapet motivasinya. Kalimat problem statement-nya udah pas banget melukiskan apa yang aku rasain.”
+
 ## Evidence, feedback, dan next step
 
-### Artefak Wawancara
+### Artefak Wawancara & Konfirmasi Eksplisit
 - Wawancara berlangsung selama 15 menit melalui obrolan suara di Discord (tanpa rekaman audio sesuai kesepakatan obrolan santai; catatan transkrip mentah dibuat secara manual saat berlangsung).
-- Pernyataan *shared problem statement* telah dikirimkan dan dikonfirmasi ulang oleh Fahmi via pesan singkat.
+- Bukti konfirmasi *shared problem statement* didapatkan secara eksplisit melalui kutipan pesan langsung (*verbatim quote*) dari Fahmi di Discord yang menyetujui rumusan masalah tanpa perlu modifikasi.
 
 ### Penggunaan AI & Human Review Log
 - **Peran AI:** Digunakan sebatas untuk menstrukturkan draf transkrip mentah, mengelompokkan tata bahasa, dan memberikan label awal (`fact`, `interpretation`, `constraint`).
@@ -76,6 +80,6 @@ Menerapkan pemahaman *why* di balik tindakan/pilihan seseorang pada wawancara be
 | Objective & State | 4 | Mengubah total asumsi awal yang keliru menjadi *shared problem statement* yang disetujui |
 | Repertoire, Language & AI | 4 | Menggunakan *open questions*, verifikasi langsung, serta menyertakan **Human Review Log** eksplisit untuk mengontrol batasan AI |
 | Response & Adaptation | 3 | Beradaptasi penuh saat mengetahui alasan sebenarnya tanpa memaksakan persepsi awal |
-| Agreement, Action & Relationship | 3 | *Problem statement* disepakati narasumber dan *next step* reflektif teridentifikasi |
+| Agreement, Action & Relationship | 3 | *Problem statement* dikonfirmasi lewat kutipan langsung (*verbatim quote*) Fahmi di Discord |
 
 **Total: 18/20 — Mahir.**

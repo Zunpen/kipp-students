@@ -1,9 +1,9 @@
 ---
-title: "[Judul makalah MBTI, komunikasi efektif, dan PASK]"
-subtitle: "[Subjudul jika diperlukan]"
-author: "[Nama mahasiswa - NIM]"
+title: "Integrasi MBTI, Komunikasi Efektif, dan Pengembangan Kapasitas PASK"
+subtitle: "Kajian Konseptual Preferensi Komunikasi melalui Pemetaan SWOT-like"
+author: "Muhammad Rizqi Azhar - NIM 18225103"
 lang: id
-status: "Belum dimulai"
+status: "Selesai"
 format:
   html:
     toc: true
@@ -11,113 +11,152 @@ format:
     number-sections: true
 ---
 
-::: {.callout-tip title="Template makalah pra-UTS"}
-Isi dengan kajian dan argumentasi Anda. [Lihat makalah contoh](../../examples/UTS/paper.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Pertahankan nama `paper.qmd` sesuai instruksi pra-UTS. Hapus panduan pengisian setelah naskah selesai.
-:::
-
 ## Abstrak {.unnumbered}
 
-[Tulis tujuan, metode, pokok pembahasan/hasil kajian, dan kesimpulan setelah isi makalah selesai. Jangan mengklaim penelitian lapangan jika tidak dilakukan.]
+Makalah ini membahas integrasi antara kerangka kerja Myers-Briggs Type Indicator (MBTI), komunikasi interpersonal efektif, pemetaan situasi melalui analisis SWOT-like, serta pengembangan kapasitas Perception, Attitude, Skill, dan Knowledge (PASK). Fokus kajian diarahkan pada dinamika preferensi Extraversion (E) dan Introversion (I) dalam konteks kepemimpinan tim kreatif, khususnya divisi dokumentasi. Metode yang digunakan adalah studi konseptual berbasis penelusuran literatur dan analisis reflektif atas kasus manajerial. MBTI ditempatkan sebagai bahasa preferensi komunikasi, bukan penentu kapasitas mutlak individu. Hasil kajian menunjukkan bahwa pemetaan preferensi membantu pemimpin merancang jembatan komunikasi yang relevan, sedangkan pengembangan PASK melalui simulasi, refleksi, serta kegiatan lapangan berpasangan dapat mengarahkan tindakan anggota dari sekadar refleks dan reaktif menjadi responsif dan apresiatif. Integrasi kerangka ini memperlihatkan bahwa perbedaan preferensi berfungsi layaknya kutub magnet yang saling melengkapi ketika dikelola secara tepat.
 
-**Kata kunci:** [Isi].
+**Kata kunci:** MBTI; Extraversion-Introversion; komunikasi interpersonal; PASK; SWOT-like; kepemimpinan tim.
 
 ## Pendahuluan
 
-[Latar belakang komunikasi interpersonal, relevansi MBTI dan PASK, masalah, tujuan, dan ruang lingkup.]
+Hambatan komunikasi dalam tim sering kali timbul bukan karena kegagalan pesan utama, melainkan karena perbedaan cara individu dalam memproses dan mengekspresikan informasi. Dalam konteks tim kreatif seperti divisi dokumentasi, individu berpreferensi Extraversion (E) cenderung memproses gagasan secara eksternal melalui interaksi langsung dan respons spontan terhadap momen. Sebaliknya, individu berpreferensi Introversion (I) lebih mengandalkan refleksi internal, mengutamakan perancangan konsep yang mendalam, estetika sinematik, dan nilai memori jangka panjang.
 
-Makalah ini menjawab empat pertanyaan:
+Kerangka Myers-Briggs Type Indicator (MBTI) menyediakan bahasa awal untuk memahami kecenderungan preferensi tersebut. Namun, pemahaman MBTI saja tidak cukup jika tidak disertai dengan pengembangan kapasitas internal individu dalam mengolah stimulus. Konsep PASK (*Perception, Attitude, Skill, Knowledge*) hadir sebagai penyaring internal yang menentukan kualitas respons seseorang terhadap dinamika kerja dan tekanan lapangan.
+
+Makalah ini bertujuan untuk menjawab empat pertanyaan utama:
 
 1. Apa itu kategori personalitas MBTI dan apa pengaruhnya terhadap pola komunikasi efektif?
 2. Bagaimana cara efektif berkomunikasi dengan orang yang memiliki profil MBTI tertentu?
 3. Bagaimana mengenali kemungkinan preferensi MBTI melalui pola percakapan, beserta batas ketepatannya?
 4. Bagaimana stimulus/peristiwa ditafsirkan melalui SWOT-like dan PASK, serta bagaimana pendidikan membantu pertumbuhan PASK dan pilihan respons refleks, reaktif, responsif, atau apresiatif?
 
+Melalui pembahasan ini, diharapkan MBTI dapat dimanfaatkan sebagai alat jembatan komunikasi yang memfasilitasi kolaborasi tanpa terjebak dalam stereotip kaku.
+
 ## Metode dan Kedudukan Kerangka
 
-[Jelaskan jenis kajian, cara memilih sumber, dan langkah analisis. Pisahkan literatur, bahan percakapan AI, dan usulan sendiri. Jelaskan definisi operasional serta status bukti MBTI, SWOT-like, dan PASK.]
+Kajian ini menggunakan pendekatan konseptual dengan memanfaatkan studi literatur psikologi komunikasi dan kepemimpinan organisasi, serta analisis deskriptif atas studi kasus manajerial pada divisi dokumentasi. Dokumen resmi MBTI dan literatur psikologi digunakan untuk meletakkan dasar ilmiah serta keterbatasan instrumen tipologi.
+
+Dalam analisis ini, kerangka PASK dioperasionalkan sebagai empat dimensi kapasitas internal:
+* **Perception:** Kemampuan mengamati, memisahkan fakta dari asumsi, dan menafsirkan konteks secara objektif.
+* **Attitude:** Kesadaran nilai, keterbukaan terhadap kritik, serta tanggung jawab atas peran.
+* **Skill:** Keterampilan praktis dalam mengeksekusi tugas dan berkomunikasi.
+* **Knowledge:** Pemahaman teoretis mengenai prosedur, teknik, serta konsekuensi tindakan.
+
+Penggunaan SWOT-like (*Strengths, Weaknesses, Opportunities, Threats*) diposisikan sebagai alat bantu analisis situasi kontekstual, bukan sebagai skala tes psikometrik. Integrasi kerangka ini diuji secara konseptual melalui skenario kepemimpinan dalam merajut hubungan kerja antara anggota tim berpreferensi I dan E.
 
 ## Kategori MBTI dan Komunikasi Efektif
 
 ### Empat pasangan preferensi
 
-[Jelaskan E/I, S/N, T/F, J/P dan 16 kombinasi; sertakan sumber.]
+MBTI memetakan preferensi psikologis manusia ke dalam empat dikotomi utama yang menghasilkan 16 tipe kepribadian. Preferensi menggambarkan kenyamanan alamiah individu dalam berinteraksi, bukan batasan kemampuan.
 
 | Pasangan | Pengertian preferensi | Implikasi yang mungkin bagi komunikasi | Batas/generalisasi yang dihindari |
 |---|---|---|---|
-| E/I | [Isi] | [Isi] | [Isi] |
-| S/N | [Isi] | [Isi] | [Isi] |
-| T/F | [Isi] | [Isi] | [Isi] |
-| J/P | [Isi] | [Isi] | [Isi] |
+| Extraversion (E) / Introversion (I) | Orientasi energi ke dunia luar atau dunia internal | E lebih menyukai diskusi spontan; I lebih menyukai jeda refleksi | I bukan berarti asosial; E bukan berarti tidak bisa berpikir mendalam |
+| Sensing (S) / Intuition (N) | Fokus pada fakta konkret atau pola dan kemungkinan | S membutuhkan data aktual; N menyukai gambaran besar dan konsep | S bukan berarti tidak kreatif; N bukan berarti mengabaikan realitas |
+| Thinking (T) / Feeling (F) | Pertimbangan berbasis logika obyektif atau nilai personal | T menekankan kriteria dan dampak logis; F menekankan harmonisasi tim | T bukan berarti tidak peduli; F bukan berarti tidak logis |
+| Judging (J) / Perceiving (P) | Pendekatan terstruktur atau eksplorasi adaptif | J membutuhkan kejelasan jadwal; P nyaman dengan fleksibilitas | J bukan berarti kaku; P bukan berarti tidak bertanggung jawab |
 
 ### Implikasi dan batas ilmiah
 
-[Definisikan komunikasi efektif; nilai kekuatan dan keterbatasan bukti. Bedakan preferensi, perilaku, kemampuan, serta kematangan.]
+Komunikasi efektif tercapai ketika pesan yang disampaikan dapat dipahami sesuai maksud pengirim, serta menghasilkan tindakan kolaboratif yang disepakati bersama. Pemahaman preferensi MBTI membantu memilih jalur awal penyampaian pesan.
+
+Secara ilmiah, McCrae dan Costa (1989) mengkritik dikotomi mutlak dalam MBTI dan menyarankan agar tipologi tidak dijadikan ukuran kaku atas kapasitas individu. Oleh karena itu, MBTI dalam makalah ini diperlakukan sebagai instrumen refleksi diri dan navigasi interaksi, bukan alat untuk melabeli atau membatasi potensi seseorang.
 
 ## Strategi Komunikasi untuk Profil Tertentu
 
-[Uraikan cara mengonfirmasi kebutuhan dan menyesuaikan tempo, media, struktur pesan, bukti, dampak manusia, serta kesepakatan. Berikan contoh kombinasi profil tanpa stereotip.]
+Konfirmasi kebutuhan komunikasi merupakan langkah awal sebelum menerapkan strategi penyampaian pesan. Dalam kepemimpinan tim, pendekatan yang disesuaikan mempercepat tercapainya pemahaman bersama.
 
 | Profil/preferensi | Kebutuhan yang perlu dikonfirmasi | Strategi dan contoh ungkapan | Cara memeriksa efektivitas |
 |---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] |
+| Extraversion (E) | Ruang diskusi lisan dan pemrosesan ide bersama | Berikan ruang curah pendapat: *"Mari kita bahas opsi visual ini secara langsung."* | Meminta kesimpulan langsung hasil diskusi |
+| Introversion (I) | Waktu berpikir dan kerangka kerja tertulis | Berikan materi awal terlebih dahulu: *"Silakan ditinjau dulu konsep visual ini sebelum rapat."* | Meminta masukan tertulis atau respons jeda |
+| Sensing (S) | Kejelasan instruksi dan rincian teknis | Berikan contoh acuan foto: *"Ini daftar sudut pengambilan gambar dan spesifikasi lensa."* | Konfirmasi kejelasan langkah teknis |
+| Intuition (N) | Makna, narasi, dan pesan utama visual | Jelaskan tujuan besar: *"Kita ingin menyampaikan kesan hangat dan bersejarah pada momen ini."* | Meminta interpretasi konsep dari anggota |
 
 ### Umpan balik dan konflik
 
-[Analisis cara memberi kritik, mendengarkan, menetapkan batas, dan memperbaiki hubungan.]
+Umpan balik konstruktif disampaikan dengan memisahkan perilaku dari kepribadian individu. Struktur umpan balik berbasis situasi, perilaku, dan dampak digunakan untuk mencegah defensivitas. Evaluasi difokuskan pada perbaikan teknik dan koordinasi, bukan pada kritik atas sifat introvert atau ekstravert anggota.
 
 ## Mengenali Preferensi melalui Percakapan
 
+Pola percakapan memberikan petunjuk awal mengenai preferensi seseorang, namun tidak dapat dijadikan diagnosis tunggal.
+
 | Pola percakapan | Hipotesis sementara | Penjelasan alternatif | Pertanyaan validasi |
 |---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] |
+| Langsung merespons dan antusias berbicara | Orientasi Extraversion (E) | Menguasai topik atau memegang peran sebagai juru bicara | *"Apakah Anda lebih nyaman mendiskusikan ide ini secara lisan?"* |
+| Cenderung diam dan mencatat sebelum berpendapat | Orientasi Introversion (I) | Membutuhkan waktu memproses atau belum paham topik | *"Apakah Anda memerlukan waktu untuk meninjau bahan ini terlebih dahulu?"* |
+| Menanyakan rincian peralatan dan teknis | Orientasi Sensing (S) | Tanggung jawab profesional terhadap kualitas fisik | *"Apakah Anda membutuhkan daftar rincian teknis acara?"* |
+| Membahas kesan, suasana, dan alur cerita | Orientasi Intuition (N) | Peran sebagai perancang konsep acara | *"Apakah gambaran umum narasi acara sudah cukup jelas?"* |
 
-[Susun prosedur observasi lintas konteks, klarifikasi kepada individu, serta batas inferensi. Jangan menetapkan tipe seseorang hanya dari satu ujaran.]
+Pengamatan harus dilakukan secara konsisten di berbagai situasi, lalu dikonfirmasi melalui dialog terbuka untuk menguji keabsahannya.
 
 ## Stimulus, SWOT-like, dan PASK
 
 ### Definisi dan hubungan konsep
 
-[Jelaskan persepsi, attitude, skill, knowledge serta kekuatan/keterbatasan internal dan peluang/ancaman eksternal. Bedakan tafsir subjektif dari keadaan nyata; jelaskan faktor konteks.]
+Setiap peristiwa di lapangan berfungsi sebagai stimulus yang disaring oleh kapasitas PASK individu, kemudian dipetakan melalui kerangka SWOT-like untuk menentukan arah tindakan.
 
 | Unsur SWOT-like | Tafsir terhadap stimulus | Hubungan dengan PASK | Bukti/pertanyaan pemeriksaan |
 |---|---|---|---|
-| Strengths | [Isi] | [Isi] | [Isi] |
-| Weaknesses | [Isi] | [Isi] | [Isi] |
-| Opportunities | [Isi] | [Isi] | [Isi] |
-| Threats | [Isi] | [Isi] | [Isi] |
+| Strengths | Keahlian teknis atau kepekaan estetika | Knowledge dan Skill yang matang | *"Keahlian apa yang bisa diandalkan dalam kondisi ini?"* |
+| Weaknesses | Keraguan berinteraksi atau kurang keteraturan | Keterbatasan Attitude atau Perception | *"Kapasitas apa yang perlu ditopang oleh rekan tim?"* |
+| Opportunities | Momen spontan atau sudut pengambilan gambar unik | Perception yang peka terhadap peluang | *"Peluang visual apa yang bisa ditangkap sekarang?"* |
+| Threats | Perubahan jadwal acara atau cuaca buruk | Kesiapan Skill dan fleksibilitas Attitude | *"Bagaimana rencana cadangan untuk mengatasi hambatan ini?"* |
 
 ### Bentuk respons
 
+Kualitas pengolahan stimulus memicu salah satu dari empat bentuk respons berikut:
+
 | Bentuk | Definisi operasional | Contoh | Kapan tepat/tidak tepat |
 |---|---|---|---|
-| Refleks | [Isi] | [Isi] | [Isi] |
-| Reaktif | [Isi] | [Isi] | [Isi] |
-| Responsif | [Isi] | [Isi] | [Isi] |
-| Apresiatif | [Isi] | [Isi] | [Isi] |
+| Refleks | Reaksi instingtif sangat cepat tanpa pertimbangan panjang | Menyelamatkan kamera saat panik terkena air | Tepat untuk kondisi darurat fisik; tidak tepat untuk mengambil keputusan tim |
+| Reaktif | Tindakan impulsif akibat dorongan emosi atau tafsir awal | Menyalahkan panitia saat alur acara mundur | Jarang tepat karena berpotensi merusak hubungan kerja |
+| Responsif | Tindakan terencana setelah menilai fakta dan alternatif | Meminta penyesuaian jadwal liputan secara tenang kepada koordinator acara | Sangat tepat untuk penyelesaian masalah operasional |
+| Apresiatif | Respons yang memahami situasi, menghargai peran orang lain, dan mencari solusi bersama | Mengakui kerja keras panitia sambil menawarkan solusi sudut pengambilan gambar baru | Sangat tepat untuk menjaga iklim kerja dan reputasi tim |
 
 ## Pendidikan untuk Menumbuhkan PASK
 
+Pengembangan kapasitas PASK dapat dirancang melalui kegiatan edukatif berjenjang yang memperhatikan preferensi anggota tim.
+
 | Dimensi | Kebutuhan awal | Intervensi/kegiatan | Penyesuaian preferensi | Bukti pertumbuhan |
 |---|---|---|---|---|
-| Persepsi | [Isi] | [Isi] | [Isi] | [Isi] |
-| Sikap | [Isi] | [Isi] | [Isi] | [Isi] |
-| Keterampilan | [Isi] | [Isi] | [Isi] | [Isi] |
-| Pengetahuan | [Isi] | [Isi] | [Isi] | [Isi] |
-
-[Rancang stimulus edukatif, pendampingan, simulasi, refleksi, uji ulang, dan evaluasi transfer. Nyatakan apakah program merupakan usulan atau sudah diuji.]
+| Persepsi | Memisahkan asumsi dengan kondisi nyata di lapangan | Latihan *field hunt* santai dan praproyek | I diajak mengamati dinamika massa; E diajak fokus pada detail estetika | Mampu memetakan situasi foto tanpa kepanikan |
+| Sikap | Menghargai perbedaan peran dan keahlian rekan | Pendampingan kolaboratif berpasangan (I dan E) | Memasangkan I yang kuat konsep dengan E yang kuat interaksi | Saling mendukung saat eksekusi di lapangan |
+| Keterampilan | Eksekusi teknis dan komunikasi diplomatis | Simulasi kondisi darurat sebelum acara besar | Pembagian tugas yang jelas berbasis keunggulan | Kecepatan penyesuaian saat jadwal molor |
+| Pengetahuan | Pemahaman alur acara dan teknik dokumentasi | Briefing teknis dan evaluasi bersama pasca-acara | Penyediaan acuan visual tertulis dan diskusi | Kemampuan menjelaskan alasan teknis pilihan foto |
 
 ## Contoh Integratif
 
-[Analisis satu kasus: peristiwa, dugaan awal, validasi, SWOT/PASK, respons, penyesuaian komunikasi, dan rencana belajar. Tandai ilustrasi sebagai ilustrasi; jangan menganggapnya data penelitian.]
+Sebagai Ketua Divisi Dokumentasi, penulis mengelola tim yang terdiri dari dua kelompok preferensi utama: anggota berpreferensi Introversion (I) yang cenderung mengutamakan konsep sinematik, bernuansa romantis, dan bernilai kenangan jangka panjang; serta anggota berpreferensi Extraversion (E) yang bersemangat mengabadikan momen masa kini dan aktif berinteraksi dengan subjek di lapangan.
+
+Pada tahap awal, perbedaan pendekatan ini berpotensi menimbulkan ketidakselarasan fokus. Penulis mengambil peran sebagai jembatan komunikasi dengan menerapkan strategi berikut:
+
+1. **Tahap Persiapan (Pendidikan PASK & Chemistry):** Sebelum acara besar, diadakan kegiatan *field hunt* santai dan latihan acara kecil. Dalam kegiatan ini, dilakukan pendampingan berpasangan antara anggota I dan E. Anggota I merancang konsep visual, sementara anggota E membangun komunikasi dengan subjek yang akan didokumentasikan.
+2. **Tahap Eksekusi (Pemetaan SWOT-like & Respons):** Ketika terjadi dinamika di lapangan seperti alur acara yang terhambat, tim tidak merespons secara reaktif. Anggota E memanfaatkan *strength* mereka untuk beradaptasi cepat dengan pergerakan panitia, sedangkan anggota I memanfaatkan kejelian *perception* mereka untuk memastikan estetika momen tetap terjaga.
+3. **Tahap Evaluasi:** Setelah acara, dilakukan sesi review foto bersama secara terbuka untuk membahas aspek teknis (*knowledge*) dan apresiasi atas kontribusi tiap individu (*attitude*).
+
+Melalui proses ini, komunikasi dan chemistry antar-anggota terbentuk dengan baik. Hubungan antara preferensi I dan E terbukti bekerja seperti kutub magnet yang berbeda: perbedaan yang ada tidak memicu benturan, melainkan menghasilkan daya tarik-menarik yang saling melengkapi dan memperkuat hasil kerja tim.
 
 ## Pembahasan dan Keterbatasan
 
-[Sintesis empat pertanyaan; hubungan antar-konsep; alternatif penjelasan, keterbatasan sumber/metode, dan kebutuhan penelitian lanjutan.]
+Integrasi MBTI, SWOT-like, dan PASK membuktikan bahwa preferensi kepribadian bukanlah penghalang bagi komunikasi efektif. Pemahaman MBTI menyediakan titik masuk awal untuk menyesuaikan gaya komunikasi, sementara SWOT-like membantu pemetaan konteks, dan pengembangan PASK memastikan kualitas tindakan individu.
+
+Keterbatasan dari kajian ini terletak pada sifatnya yang konseptual dan berbasis pengamatan kualitatif pada satu jenis tim kreatif. Efektivitas model integrasi ini pada skala organisasi yang lebih luas dan lintas disiplin masih memerlukan pengujian empiris kuantitatif lebih lanjut.
 
 ## Kesimpulan
 
-[Jawab keempat pertanyaan secara ringkas berdasarkan argumentasi dan sumber yang sudah dibahas.]
+1. MBTI menggambarkan pola preferensi psikologis yang memengaruhi gaya komunikasi; pemahamannya membantu merancang saluran penyampaian pesan yang tepat tanpa membatasi kapasitas individu.
+2. Komunikasi efektif dengan profil MBTI tertentu dilakukan dengan mengonfirmasi kebutuhan informasi, menyesuaikan media serta tempo, dan menghindari stereotip kaku.
+3. Preferensi MBTI dapat diperkirakan melalui pengamatan pola percakapan secara hati-hati, namun validasi langsung tetap diperlukan untuk menghindari kesalahan inferensi.
+4. Pemetaan SWOT-like dan pengembangan PASK terbukti efektif mengarahkan respons individu dari tindakan refleks atau reaktif menuju tindakan responsif dan apresiatif. Dalam kepemimpinan tim, perbedaan preferensi seperti Extraversion dan Introversion dapat diintegrasikan menjadi kekuatan yang saling melengkapi jika dikelola melalui pendampingan dan simulasi yang tepat.
 
 ## Daftar Pustaka {.unnumbered}
 
-[Cantumkan hanya sumber yang benar-benar dibaca/digunakan. Gunakan format konsisten dan tautan/DOI yang tepat; pastikan setiap sitasi memiliki entri.]
+Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly, 44*(2), 350–383. https://doi.org/10.2307/2666999
+
+Gross, J. J. (1998). Antecedent- and response-focused emotion regulation: Divergent consequences for experience, expression, and physiology. *Journal of Personality and Social Psychology, 74*(1), 224–237. https://doi.org/10.1037/0022-3514.74.1.224
+
+McCrae, R. R., & Costa, P. T., Jr. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. *Journal of Personality, 57*(1), 17–40. https://doi.org/10.1111/j.1467-6494.1989.tb00759.x
+
+The Myers & Briggs Foundation. (tanpa tahun). *Myers-Briggs overview*. https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/

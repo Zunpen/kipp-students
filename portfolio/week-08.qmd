@@ -16,7 +16,7 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
+| Nama | Muhammad Rizqi Azhar |
 | NIM | [Isi sebagai teks; pertahankan nol di awal] |
 | Kelas | [Isi] |
 | Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |

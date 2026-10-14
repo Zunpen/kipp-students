@@ -1,9 +1,7 @@
 ---
-title: "Laporan UTS KIPP - Sesi 3a"
-subtitle: "Menawarkan solusi TI dan AI - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,152 +9,160 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3a](../../examples/UTS/hasil_3a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3a: Menawarkan solusi TI dan AI - target pertama |
-| Target | [Nama dan ID customer sesuai ZIP 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Muhammad Rizqi Azhar |
+| NIM | 18225103 |
+| Kelas dan tanggal | Kelas K01; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 (Menawarkan solusi TI dan AI) |
+| Nama dan ID target | Budi (K3-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (Simulasi berbasis bank profil KIPP) |
+| Kelengkapan transkrip | Lengkap (mencakup seluruh giliran dari awal hingga uji ulang dan konfirmasi) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
-
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+- **Brief kasus:** Pengelola usaha (customer) menghadapi masalah pesan pelanggan berulang dan pesanan tercecer dengan tenaga terbatas, tetapi belum yakin memerlukan solusi TI/AI.
+- **Tujuan tindakan mahasiswa:** Budi menyepakati uji coba kecil (*pilot*) solusi pencatatan/pengelolaan pesanan, dengan langkah pertama, waktu, dan penanggung jawab yang jelas tanpa menghilangkan cara lama secara mendadak.
+- **Indikator keberhasilan:** 
+  - Budi menyebutkan sendiri kebutuhan/masalahnya secara terbuka.
+  - Terdapat kesepakatan lisan/tertulis mengenai cakupan pilot, jadwal mulai, dan penanggung jawab.
+  - Terdapat kriteria evaluasi pilot yang jelas (misal: tidak ada pesanan tercecer & kesesuaian rekap WhatsApp vs buku rekap).
+  - Budi tetap memegang kendali operasional dengan prosedur cadangan (cara lama dipertahankan penuh selama pilot).
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Strengths:** Paham dasar sistem informasi/analisis data, mampu menjelaskan hal teknis secara runtut, terbiasa membuat dokumentasi.<br>**Weaknesses:** Belum berpengalaman langsung di operasional bisnis Budi, cenderung menjelaskan terlalu teknis, kurang sabar menghadapi penolakan.<br>**Opportunities:** Masalah pesanan tercecer bersifat nyata sehingga ada alasan kuat penawaran pilot.<br>**Threats:** Risiko dianggap "anak baru sok tahu", serta batasan waktu simulasi. | U001 | Sementara |
+| Attitude | Antusias, namun ada kecenderungan awal untuk terburu-buru "menjual" solusi. | U001 | Sementara |
+| Knowledge | Memahami konsep solusi TI/AI, namun belum menguasai rincian alur kerja harian, biaya, dan kebiasaan Budi. | U001 | Sementara |
+| Skill | Mampu berkomunikasi dan menjelaskan dengan baik; perlu latihan lebih lanjut dalam menggali kebutuhan dan menangani keberatan secara empatik. | U001 | Sementara |
+| Preferensi/MBTI jika dilaporkan | Tidak didiagnosis mandiri secara formal / laporan diri. | — | Hipotesis kerja |
+| Karakter, peran, kultur/ko-kultur | Konsultan TI/AI muda yang adaptif, menghargai prosedur operasional yang berjalan, dan berorientasi pada solusi praktis. | U001 | Sementara |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Membuka ruang penerimaan Budi terhadap uji coba solusi pencatatan pesanan secara bertahap. | Edukasi A (menurunkan defensivitas) | Membuka dialog dengan validasi alur kerja lama dan mendengarkan masalah tanpa menyalahkan. | Budi mau menceritakan kendala operasionalnya secara sukarela. |
+| Attention | Perhatian rendah ke perubahan; merasa cara lama sudah cukup padahal pesanan tercecer. | Edukasi K (relevansi masalah vs risiko cara lama) | Mengakui kelebihan cara kerja saat ini, lalu menanyakan pengalaman pesanan yang pernah terlewat. | Budi mengonfirmasi adanya pesanan yang tercecer di jam ramai. |
+| Interest | Baru tertarik jika masalah diakui dan solusi tidak mengganggu operasional. | Edukasi K (prinsip kerja pilot berdampingan) | Menggunakan pertanyaan terbuka dan klarifikasi fakta; memberikan perbandingan sederhana cara lama vs baru. | Budi menanyakan mekanisme teknis dan dampak terhadap rutinitas staf. |
+| Desire | Khawatir timbul biaya tambahan dan risiko kekacauan sistem/data. | Edukasi A & S (rasa aman & kesiapan awal) | Memaparkan biaya/asumsi secara transparan, menawarkan pilot tanpa risiko dengan prosedur cadangan. | Budi meminta kepastian jadwal dan batasan risiko pilot. |
+| Action | Ragu melangkah jika tidak ada pegangan keamanan jika pilot gagal. | Edukasi S (langkah pertama terstruktur) | Menyepakati langkah pertama, tenggat waktu, penanggung jawab, serta indikator keberhasilan pilot. | Budi menyetujui jadwal dan alokasi penanggung jawab pilot (Mbak Rina). |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### AI001 - Budi (K3-02) - [Simulasi Awal]
+"Cara sekarang sudah jelas. Mengapa harus berubah?"
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+### U001 - Mahasiswa - [Simulasi Awal]
+"Terima kasih sudah langsung terus terang, Pak. Saya justru senang mendengarnya, karena kelihatan Bapak memegang usaha ini dengan tanggung jawab, dan cara yang sudah jelas itu pasti hasil dari pengalaman yang tidak sebentar.
+Jadi saya tidak datang untuk bilang cara Bapak keliru. Saya cuma ingin memahami dulu cara kerjanya sekarang. Kalau Bapak berkenan, boleh saya tahu bagaimana alurnya, dari pesan pelanggan masuk sampai pesanannya selesai? Dan kalau ada pesan yang sempat terlewat, biasanya bagian mana yang paling merepotkan buat Bapak?
+Kalau setelah mendengar itu ternyata cara sekarang sudah cukup, saya akan bilang apa adanya. Perubahan baru layak dipertimbangkan kalau memang menjawab masalah yang Bapak rasakan, dan itu keputusan Bapak."
 
-### U001 - Mahasiswa - [Tahap]
+### AI002 - Budi (K3-02) - [Simulasi Awal]
+"Sikap kamu yang mau mendengar dulu begini yang saya hargai. Memang betul, alur ini yang bikin bisnis saya bisa bertahan sampai sekarang.
+Gini alurnya: semua pelanggan masuk lewat WhatsApp. Dua staf saya yang pegang. Pesan masuk dibalas manual, lalu diringkas dan dicatat ke buku rekap pesanan sebelum diteruskan ke bagian penyiapan barang. Kalau cuma 20–30 pesan sehari, semua rapi. Tapi kalau lagi ramai—bisa di atas 100 pesan—di situlah mulai kacau. Staf saya sering keduluan panik, pesan pelanggan tertimbun di bawah, ada yang resep pesanan salah catat, bahkan ada pesanan yang terlewat sampai pelanggan komplain.
+Sektor itu memang paling merepotkan dan bikin pusing. Tapi masalahnya, kalau saya pakai sistem baru atau AI yang mahal dan rumit, staf saya malah takut makin kaget dan salah pencet. Sebenarnya, solusi seperti apa yang kamu maksud tanpa harus mengacaukan alur rekap manual yang staf saya sudah pahami ini?"
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+### U002 - Mahasiswa - [Simulasi Awal]
+"Terima kasih sudah cerita jelas, Pak. Alurnya sendiri bagus, masalahnya cuma muncul di jam ramai waktu dua staf harus membalas dan mencatat sekaligus. Jadi buku rekap tetap dipakai, tidak ada yang diganti. Saya hanya usul satu lapisan kecil di WhatsApp Business yang sudah dipakai staf: label untuk pesan yang belum tercatat dan balasan cepat untuk pertanyaan yang sering muncul. Tidak perlu AI, dan soal biaya belum saya janjikan apa pun sebelum kita lihat kebutuhannya. Kita coba seminggu saja di hari ramai, cara lama tetap jalan sebagai cadangan. Menurut Bapak, staf mana yang paling nyaman dengan HP untuk mencoba pertama, dan tanda apa yang membuat Bapak merasa ini membantu?"
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### AI003 - Budi (K3-02) - [Kesepakatan Action]
+"Gagasan kamu realistis, Fajar. Saya lega kamu tidak memaksakan sistem mahal atau menyuruh menghapus rekap manual kami. Fitur label dan balasan cepat di WhatsApp Business itu memang terdengar masuk akal dan tidak berisiko.
+Soal staf, Mbak Rina—staf senior saya—yang paling cekatan pegang HP dan paling tahu titik ribetnya. Untuk indikatornya, simpel saja buat saya: saat jam ramai tidak ada lagi pesanan yang tertimbun terlewat, dan angka di WhatsApp tetap cocok dengan buku rekap akhir hari.
+Nah, hari ramai tempat saya biasanya Jumat sampai Minggu. Kapan kamu bisa datang untuk bantu menyetel fiturnya dan menjelaskan singkat ke Mbak Rina supaya dia paham cara pakainya?"
 
-[Tempel pesan AI persis seperti sumber.]
+### U003 - Mahasiswa - [Kesepakatan Action]
+"Terima kasih, Pak, saya senang Bapak merasa tenang dengan rencananya. Indikator dari Bapak sudah jelas dan bisa kita pakai: tidak ada pesanan terlewat di jam ramai, dan angka di WhatsApp cocok dengan buku rekap akhir hari. Bagaimana kalau saya datang Kamis sore, sebelum akhir pekan ramai, untuk menyetel label dan balasan cepat bersama Mbak Rina? Saya jelaskan singkat, lalu biar dia yang mencoba langsung supaya terbiasa dan tidak kaget. Uji cobanya Jumat sampai Minggu, buku rekap tetap jalan penuh sebagai cadangan, dan saya siap dihubungi kalau Mbak Rina bingung. Senin kita duduk sebentar, Pak, bertiga dengan Mbak Rina, untuk melihat apakah indikatornya tercapai. Kalau tidak membantu, kita berhenti dan tidak ada yang berubah. Apakah Kamis sore cocok untuk Bapak dan Mbak Rina?"
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### AI004 - Budi (K3-02) - [Uji Ulang - Kendala Baru]
+"Kamis sore jam 16.00 sangat cocok, Fajar. Mbak Rina biasanya agak senggang di jam segitu sebelum toko tutup. Rencananya rapi sekali: ada pendampingan, cara lama tetap jadi cadangan, dan ada evaluasi Senin. Saya pegang komitmen ini.
+Halo Fajar, maaf mengganggu sebelum hari Kamis. Tadi saya cerita detail rencana ini ke Mbak Rina. Dia sebenarnya mau coba, tapi dia gelisah soal satu hal: saat jam sibuk Jumat besok, kalau dia harus memasang label di WhatsApp *sekaligus* mencatat manual ke buku rekap, dia takut malah merasa mengerjakan hal yang sama dua kali (*double work*) di tengah kepanikan. Dia khawatir respons ke pelanggan justru makin lambat.
+Bagaimana sebaiknya kita atur alur practical-nya di lapangan supaya Mbak Rina tidak merasa terbebani kerjaan ganda saat jam ramai?"
+
+### U004 - Mahasiswa - [Uji Ulang]
+"Terima kasih sudah menghubungi saya sebelum Kamis, Pak, dan tolong sampaikan terima kasih saya ke Mbak Rina karena sudah jujur soal kekhawatirannya. Kekhawatiran itu masuk akal: kalau label dan buku rekap diperlakukan sebagai dua pekerjaan terpisah, di jam ramai memang terasa dobel, dan saya tidak mau uji coba ini menambah beban Mbak Rina.
+Usul saya, urutannya dibuat satu alur saja. Saat pesan sudah dicatat ke buku rekap, label langsung ditempel hanya sebagai satu tanda ‘sudah tercatat’, sekali sentuh, tanpa mengetik apa-apa. Selama jam ramai, label tidak perlu lebih dari itu. Balasan cepat juga dipakai untuk pertanyaan yang sering muncul, supaya ada waktu yang justru terhemat, bukan terambil.
+Kalau Mbak Rina merasa itu masih berat, kita boleh mengurangi lagi: Jumat cukup coba di satu jam ramai saja dulu, dan sisa harinya cara lama berjalan penuh. Kamis nanti saya ingin dengar langsung dari Mbak Rina, langkah mana yang terasa menambah beban, lalu kita sesuaikan bersama. Dan kalau pada Jumat ia merasa respons ke pelanggan jadi lebih lambat, ia boleh berhenti memakai label saat itu juga tanpa harus menunggu persetujuan siapa pun. Nanti Senin kita lihat bersama apakah alur ini layak diteruskan.
+Apakah usulan satu sentuhan dan uji coba satu jam dulu terasa cukup nyaman bagi Mbak Rina, menurut Bapak?"
+
+### AI005 - Budi (K3-02) - [Refleksi & Konfirmasi]
+"Penjelasan kamu sangat melegakan, Fajar. Usulan satu sentuhan dan opsi uji coba 1 jam dulu di hari Jumat itu sangat realistis. Mbak Rina pasti merasa jauh lebih tenang karena dia tahu punya kendali penuh untuk berhenti kapan saja kalau merasa prosesnya makin lambat. Terima kasih banyak atas keluwesan dan kepedulian kamu terhadap kondisi staf saya. Kita tetap bertemu hari Kamis sore jam 16.00 ya, Fajar!"
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+Tujuan tindakan **tercapai penuh**. Budi menyepakati uji coba terbatas (*pilot project*) penggunaan fitur WhatsApp Business tanpa menghapus prosedur rekap manual lama, lengkap dengan jadwal, pendampingan, indikator evaluasi, dan otonomi penuh staf.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Merasa cara lama paling aman; menganggap perubahan sebagai ancaman biaya dan potensi kekacauan. | Melihat peluang penyempurnaan alur tanpa risiko; merasa aman karena cara lama tetap dipertahankan penuh. | AI001 vs AI003, AI005 | Perubahan status simulasi Budi berdasarkan kesepakatan jadwal dan penyesuaian alur uji coba. |
+| Attitude | Defensif, ragu terhadap efektivitas dan biaya teknologi baru. | Terbuka, menghargai pendekatan bertahap, merasa dipahami dan dihormati kedaulatan usahanya. | U001, AI002, AI005 | Pernyataan eksplisit Budi yang mengapresiasi kebersediaan mendengar dan fleksibilitas solusi. |
+| Knowledge | Menguasai rekap manual; belum memahami fitur sederhana seperti label & balasan cepat. | Memahami mekanisme label sekali sentuh dan fungsi balasan cepat untuk menghemat waktu. | AI002, U002, U004 | Pemahaman operasional terkonfirmasi lewat kesediaan melibatkan Mbak Rina. |
+| Skill | Staf terbiasa kerja manual; khawatir salah pencet dan kerja ganda. | Kesiapan mengikuti uji coba 1 jam/fleksibel pada hari Jumat dengan opsi penghentian mandiri. | AI004, U004, AI005 | Kesiapan simulasi tokoh; keterampilan nyata Mbak Rina di lapangan menunggu pelaksanaan Kamis-Jumat. |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| E1 (U001–AI001) | Budi defensif (Attitude/Knowledge). | Validasi cara lama, puji tanggung jawab Budi, dan tanya alur tanpa menyalahkan. | Luluh, menceritakan detail alur kerja dan titik pusing saat ramai (100+ pesan). | Attitude melunak (merasa aman); Kebutuhan nyata terungkap. | Mahasiswa memetakan bahwa masalah utamanya adalah beban di jam ramai. |
+| E2 (U002–AI003) | Budi takut biaya dan kekacauan sistem (Desire/Action). | Tawarkan fitur sederhana (label/balasan cepat) tanpa menghapus rekap manual; biaya Rp0. | Menyetujui ide, menunjuk Mbak Rina, dan menetapkan indikator keberhasilan. | Knowledge membaik; Desire terpuaskan; Action tercapai. | Mahasiswa menyusun rencana pendampingan Kamis sore & evaluasi Senin. |
+| E3 / Uji Ulang (U004–AI005) | Kendala baru: Mbak Rina cemas kerja ganda (*double work*) saat ramai (Skill). | Validasi kecemasan, usulkan alur "satu sentuhan", opsi uji coba 1 jam, dan otonomi berhenti mandiri. | Sangat melegakan; menyetujui uji coba fleksibel dan memperkuat komitmen. | Rasa aman (Attitude) staf terjaga; Hambatan Skill teratasi lewat fleksibilitas. | Mahasiswa memberikan kontrol penuh kepada pengguna akhir (Mbak Rina). |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| E1 (U001) | memuji tanggung jawab Budi dan menghargai pengalaman panjangnya. | Budi secara eksplisit menyatakan mengapresiasi sikap yang mau mendengar dulu. | Kategori: **Tinggi** (Keterbukaan langsung meningkat sejak giliran pertama). | Menurunkan hambatan Attitude (defensivitas) secara signifikan. |
+| E3 (U004) | Memvalidasi kecemasan Mbak Rina dan memberi wewenang berhenti tanpa persetujuan jika memberatkan. | Budi menyatakan penjelasan sangat melegakan dan memuji keluwesan Fajar. | Kategori: **Tinggi** (Kepercayaan penuh terhadap komitmen pendampingan). | Menghilangkan kecemasan akan risiko operasional dan beban kerja ganda. |
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru | Budi melaporkan bahwa Mbak Rina cemas akan terjadi kerja ganda (*double work*) antara memasang label dan mencatat ke buku rekap di jam ramai (AI004). |
+| Respons awal vs uji ulang | Pada simulasi awal, solusi berfokus pada integrasi label & balasan cepat. Pada uji ulang, mahasiswa beradaptasi dengan menyederhanakan alur menjadi "satu sentuhan" setelah rekap, membatasi durasi uji coba menjadi 1 jam saja di hari Jumat, dan memberikan hak penuh kepada Mbak Rina untuk menghentikan uji coba jika terasa membebani (U004). |
+| Revisi rencana/dukungan | Menyediakan skenario mitigasi darurat (*fail-safe*) di mana cara lama bisa langsung berjalan 100% tanpa perlu persetujuan Fajar/Budi jika staf merasa kewalahan. |
+| Indikator perbaikan | Budi langsung merespons positif (AI005), menyatakan kekhawatiran stafnya hilang karena tetap memegang kendali penuh. |
+| Transfer dan keterbatasan | Keterampilan adaptasi komunikasi terbukti efektif dalam teks simulasi; penerimaan teknis Mbak Rina di lapangan nyata tetap bergantung pada kemudahan antarmuka aplikasi. |
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U002, U003, AI003 | Tujuan pilot project tercapai dengan kejelasan jadwal, pendampingan, indikator sukses, dan prosedur cadangan yang utuh. |
+| Persepsi dan validasi profil/status | 4 | U001, AI002 | Berhasil memvalidasi alur kerja lama Budi dan mendengarkan kendala nyata tanpa menghakimi atau terburu-buru menjual teknologi. |
+| Pemilihan dan urutan repertoar | 4 | U001–U003 | Urutan repertoar sangat sistematis: menurunkan defensivitas A, menyederhanakan pemahaman K, hingga menyepakati langkah bertahap S. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U001, U004 | Komunikasi sangat transparan, tidak memberikan janji muluk, dan secara nyata memprioritaskan kenyamanan staf lapangan (Mbak Rina). |
+| Evaluasi dan adaptasi | 4 | U004, AI005 | Beradaptasi dengan sangat fleksibel saat menghadapi kendala *double work* dengan menawarkan opsi alur sederhana dan hak berhenti mandiri. |
+| Refleksi dan lesson learned | 4 | Refleksi Mahasiswa | Mampu mengidentifikasi bahwa keberhasilan penawaran TI/AI terletak pada empati, kesederhanaan solusi, dan rasa aman bagi staf. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai usulan AI:** 24 / 24 × 100 = **100** *(Memerlukan moderasi dan penetapan resmi dari dosen pengampu)*.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Awalnya dikira Budi menolak karena antipati pada teknologi. Ternyata, Budi hanya bersikap protektif terhadap kelancaran usahanya dan takut stafnya kaget/terbeban biaya.
+- **Stimulus efektif/tidak efektif:** Stimulus memuji tanggung jawab Budi dan validasi alur kerja sangat efektif (AI002). Sebaliknya, memaksakan sistem AI yang rumit dipastikan akan gagal; solusi sederhana tanpa biaya (WhatsApp Business) justru menjadi pintu masuk terbaik.
+- **Pertumbuhan PASK/ASK diri:** Memahami pentingnya mendengarkan (*empathetic listening*) sebelum menyodorkan fitur teknis. Keterampilan menangani keberatan meningkat pesat lewat pemberian otonomi kepada pengguna akhir.
+- **Relasi:** Kepercayaan Budi terbangun karena Fajar tidak meremehkan cara lamanya, transparan mengenai biaya, serta menjamin tidak ada risiko operasional.
+- **Pelajaran untuk situasi berikutnya:** Dalam menawarkan solusi teknologi ke UMKM, utamakan rasa aman (*safety first*), jangan hapus cara lama sebelum cara baru terbukti, dan libatkan pengguna lapangan sejak perencanaan awal.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Setting fitur WhatsApp Business & briefing Mbak Rina | Fajar (Mahasiswa) | Kamis, 16.00 WIB | Laptop/HP & panduan ringkas | Fitur label & balasan cepat terpasang; Mbak Rina paham cara pakaunya | Rencana terkonfirmasi |
+| Pelaksanaan uji coba terbatas (1 jam di jam ramai) | Mbak Rina & Fajar | Jumat (Jam ramai) | Akses WhatsApp & Buku Rekap | Tidak ada pesanan terlewat; Mbak Rina tidak merasa kerja ganda | Rencana terkonfirmasi |
+| Evaluasi hasil pilot bersama Budi & Mbak Rina | Fajar, Budi, Mbak Rina | Senin mendatang | Data rekap WhatsApp vs Buku Rekap | Kesesuaian catatan & penurunan tingkat komplain pelanggan | Rencana terkonfirmasi |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+*Batas Bukti: Interaksi berbasis simulasi teks; efektivitas nyata bergantung pada eksekusi teknis dan kenyamanan Mbak Rina saat pengoperasian langsung di lapangan.*
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Konfirmasi akhir:** Seluruh data identitas, tujuan, transkrip percakapan, uji ulang, dan evaluasi telah dikonfirmasi dan siap disimpan ke dalam berkas `hasil_3a_18225103.qmd`.
